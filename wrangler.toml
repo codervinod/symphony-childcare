@@ -1,10 +1,14 @@
 name = "symphony-childcare"
 compatibility_date = "2026-01-15"
-pages_build_output_dir = "out"
+pages_build_output_dir = ".open-next"
 
 [build]
-command = "npm run build"
-publish = "out"
+command = "npx @opennextjs/cloudflare build"
+
+main = ".open-next/worker.js"
+
+[build.upload]
+dir = ".open-next/assets"
 
 [env.production.vars]
 NODE_ENV = "production"

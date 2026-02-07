@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://symphonychildcare.com/sitemap.xml
+
+# Disallow test pages
+Disallow: /test/
+Disallow: /simple/
+Disallow: /_next/
+Disallow: /api/
+
+# Allow all images and assets
+User-agent: Googlebot-Image
+Allow: /images/
+
+# Speed up indexing
+Crawl-delay: 1

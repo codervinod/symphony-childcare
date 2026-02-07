@@ -1,0 +1,51 @@
+{
+  "current": {
+    "id": "enrollment-open",
+    "title": "Limited Spots Available for Spring 2026",
+    "message": "We have only 5 spots remaining in our after-school program. Secure your child's place today to avoid the waitlist!",
+    "type": "enrollment",
+    "urgency": "high",
+    "expires": "2026-03-15",
+    "cta": {
+      "text": "Schedule Tour Today",
+      "action": "contact"
+    },
+    "active": true
+  },
+  "upcoming": [
+    {
+      "id": "summer-registration",
+      "title": "Summer Program Registration Opens March 1st",
+      "message": "Early bird pricing available until April 1st. Save $20/week on our exciting summer program!",
+      "type": "program",
+      "urgency": "medium",
+      "startDate": "2026-03-01",
+      "expires": "2026-05-15",
+      "active": false
+    },
+    {
+      "id": "spring-break",
+      "title": "Spring Break Care Available",
+      "message": "Full day care available during Fremont school district spring break week.",
+      "type": "service",
+      "urgency": "low",
+      "startDate": "2026-03-25",
+      "expires": "2026-04-01",
+      "active": false
+    }
+  ],
+  "news": [
+    {
+      "date": "2026-01-15",
+      "title": "New STEM Program Launched",
+      "summary": "We've introduced hands-on science and technology activities to enhance learning.",
+      "image": "/images/news/stem-program.jpg"
+    },
+    {
+      "date": "2024-12-20",
+      "title": "Holiday Celebration Success",
+      "summary": "Our annual holiday party brought families together for food, fun, and festivities.",
+      "image": "/images/news/holiday-party.jpg"
+    }
+  ]
+}

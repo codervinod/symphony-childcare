@@ -1,0 +1,46 @@
+{
+  "businessName": "Symphony Childcare",
+  "tagline": "Where Your Child Thrives After School",
+  "director": {
+    "name": "Taruna Gupta",
+    "title": "Director",
+    "bio": "With a deep-rooted passion for early childhood education and a commitment to creating a nurturing environment for young minds, I am excited to lead Symphony Childcare. My goal is to foster a space where children can thrive academically, creatively, and socially, all while feeling supported and cared for.",
+    "qualifications": [
+      "Masters in Early Childhood Education",
+      "15+ years of childcare experience",
+      "CPR & First Aid Certified",
+      "Background checked and licensed"
+    ]
+  },
+  "address": {
+    "street": "681 Navajo Way",
+    "city": "Fremont",
+    "state": "CA",
+    "zipCode": "94539",
+    "country": "United States"
+  },
+  "phone": "(510) 565-0226",
+  "email": "info@symphonychildcare.com",
+  "hours": {
+    "monday": "3:00 PM - 6:30 PM",
+    "tuesday": "3:00 PM - 6:30 PM",
+    "wednesday": "3:00 PM - 6:30 PM",
+    "thursday": "3:00 PM - 6:30 PM",
+    "friday": "3:00 PM - 6:30 PM",
+    "saturday": "Closed",
+    "sunday": "Closed",
+    "note": "Extended hours available upon request"
+  },
+  "emergencyContact": "(510) 565-0226",
+  "socialMedia": {
+    "facebook": "",
+    "instagram": "",
+    "linkedin": ""
+  },
+  "serviceAreas": [
+    "Fremont",
+    "Newark",
+    "Union City",
+    "Milpitas"
+  ]
+}

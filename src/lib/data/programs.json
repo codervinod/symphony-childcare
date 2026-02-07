@@ -1,0 +1,78 @@
+{
+  "afterSchool": {
+    "id": "after-school",
+    "title": "After School Program",
+    "subtitle": "Safe, Supervised, Stimulating",
+    "ageRange": "K-8th Grade",
+    "hours": "3:00 PM - 6:30 PM",
+    "description": "Our comprehensive after-school program provides a safe, nurturing environment where children can complete homework, engage in enriching activities, and develop social skills. With qualified educators and a structured yet flexible approach, we ensure your child thrives academically and personally.",
+    "features": [
+      "Homework help with qualified tutors",
+      "STEM and creative arts activities",
+      "Outdoor play and physical activities",
+      "Nutritious snacks and meals",
+      "Small group sizes for individual attention",
+      "Flexible pickup times",
+      "Daily progress reports"
+    ],
+    "dailySchedule": [
+      {
+        "time": "3:00 PM - 3:30 PM",
+        "activity": "Arrival and transition time"
+      },
+      {
+        "time": "3:30 PM - 4:30 PM",
+        "activity": "Homework help and academic support"
+      },
+      {
+        "time": "4:30 PM - 5:00 PM",
+        "activity": "Healthy snack time"
+      },
+      {
+        "time": "5:00 PM - 6:00 PM",
+        "activity": "Enrichment activities (STEM, arts, games)"
+      },
+      {
+        "time": "6:00 PM - 6:30 PM",
+        "activity": "Free play and flexible pickup"
+      }
+    ],
+    "pricing": {
+      "fullTime": "$150/week",
+      "partTime": "$90/week (3 days)",
+      "dropIn": "$35/day",
+      "note": "Includes snacks, materials, and all activities"
+    },
+    "enrollment": {
+      "capacity": 25,
+      "currentSpots": 5,
+      "waitlist": true
+    }
+  },
+  "summerProgram": {
+    "id": "summer",
+    "title": "Summer Program",
+    "subtitle": "Fun-Filled Summer Learning",
+    "ageRange": "K-8th Grade",
+    "hours": "7:00 AM - 6:00 PM",
+    "description": "Our exciting summer program combines learning with fun through field trips, STEM projects, arts and crafts, and outdoor adventures. Children stay engaged and continue learning while making new friends.",
+    "features": [
+      "Weekly field trips",
+      "Science experiments and STEM projects",
+      "Arts and crafts workshops",
+      "Swimming and water activities",
+      "Reading and math reinforcement",
+      "Character building activities",
+      "Full day care available"
+    ],
+    "pricing": {
+      "fullDay": "$200/week",
+      "halfDay": "$120/week",
+      "note": "Includes lunch, snacks, and field trip fees"
+    },
+    "enrollment": {
+      "enrollmentPeriod": "March 1 - May 15",
+      "earlyBird": "$180/week (before April 1)"
+    }
+  }
+}

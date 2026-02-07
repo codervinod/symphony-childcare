@@ -1,0 +1,110 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ChildCare",
+  "name": "Symphony Childcare",
+  "alternateName": "Symphony Childcare Center",
+  "description": "Premium after-school childcare program providing safe, nurturing environment with homework help, educational activities, and qualified educators in Fremont, CA.",
+  "url": "https://symphonychildcare.com",
+  "telephone": "(510) 565-0226",
+  "email": "info@symphonychildcare.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "681 Navajo Way",
+    "addressLocality": "Fremont",
+    "addressRegion": "CA",
+    "postalCode": "94539",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "37.5285",
+    "longitude": "-121.9886"
+  },
+  "openingHours": [
+    "Mo-Fr 15:00-18:30"
+  ],
+  "serviceArea": {
+    "@type": "Place",
+    "name": "Fremont, CA and surrounding areas"
+  },
+  "priceRange": "$$",
+  "image": [
+    "https://symphonychildcare.com/images/hero/outdoor-playground.png",
+    "https://symphonychildcare.com/images/gallery/facility/facility-01.jpg",
+    "https://symphonychildcare.com/images/staff/director-taruna.jpg"
+  ],
+  "logo": "https://symphonychildcare.com/images/logos/symphony-logo-compact.png",
+  "founder": {
+    "@type": "Person",
+    "name": "Taruna Gupta",
+    "jobTitle": "Director",
+    "description": "Experienced early childhood educator with 15+ years in childcare"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "ratingCount": "200",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "amenityFeature": [
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Homework Help",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "School Pickup Service",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Educational Activities",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Nutritious Snacks",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Qualified Staff",
+      "value": true
+    }
+  ],
+  "potentialAction": {
+    "@type": "ReserveAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://symphonychildcare.com/contact"
+    },
+    "result": {
+      "@type": "Reservation",
+      "name": "Schedule Tour"
+    }
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "After School Programs",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "After School Program",
+          "description": "Full-time after school care with homework help, activities, and supervision"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "School Pickup Service",
+          "description": "Safe pickup and transportation from Warm Springs, James Leitch, and Weibel Elementary schools"
+        }
+      }
+    ]
+  }
+}

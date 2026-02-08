@@ -136,7 +136,7 @@ export default function ContactInfo() {
             <div className="flex items-center space-x-4 text-xs text-gray-500">
               <span className="flex items-center space-x-1">
                 <Shield className="h-3 w-3" />
-                <span>15+ Years Experience</span>
+                <span>4+ Years Experience</span>
               </span>
               <span>•</span>
               <span>Licensed & Certified</span>

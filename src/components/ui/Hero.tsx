@@ -85,7 +85,7 @@ export default function Hero() {
               </div>
               <div className="flex items-center space-x-2">
                 <div className="w-2 h-2 bg-green-500 rounded-full"></div>
-                <span>15+ Years Experience</span>
+                <span>4+ Years Experience</span>
               </div>
             </div>
           </div>
@@ -139,7 +139,7 @@ export default function Hero() {
                       <div className="text-sm text-gray-600">Happy Families</div>
                     </div>
                     <div>
-                      <div className="font-display font-bold text-2xl text-secondary-600">15+</div>
+                      <div className="font-display font-bold text-2xl text-secondary-600">4+</div>
                       <div className="text-sm text-gray-600">Years Experience</div>
                     </div>
                     <div>

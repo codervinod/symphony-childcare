@@ -114,7 +114,7 @@ export default function TestimonialCarousel() {
             <div className="text-gray-600">Happy Families</div>
           </div>
           <div className="space-y-2">
-            <div className="font-display font-bold text-3xl text-secondary-600">15+</div>
+            <div className="font-display font-bold text-3xl text-secondary-600">4+</div>
             <div className="text-gray-600">Years Experience</div>
           </div>
           <div className="space-y-2">

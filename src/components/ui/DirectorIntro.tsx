@@ -45,8 +45,8 @@ export default function DirectorIntro() {
                     <Award className="h-5 w-5 text-secondary-600" />
                   </div>
                   <div>
-                    <div className="font-semibold text-gray-900">15+ Years</div>
-                    <div className="text-sm text-gray-600">Childcare Experience</div>
+                    <div className="font-semibold text-gray-900">Dedicated Since 2021</div>
+                    <div className="text-sm text-gray-600">4+ Years Experience</div>
                   </div>
                 </div>
 

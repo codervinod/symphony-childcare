@@ -43,9 +43,9 @@ export default function Header() {
 
       {/* Main header */}
       <div className="container-custom">
-        <div className="flex justify-between items-center py-4">
-          {/* Logo */}
-          <Link href="/" className="flex items-center space-x-3">
+        <div className="flex items-center py-4 relative">
+          {/* Logo - Centered on mobile, left-aligned on larger screens */}
+          <Link href="/" className="flex items-center space-x-3 lg:flex-none mx-auto lg:mx-0">
             <div className="p-1 hover:scale-105 transition-all duration-300">
               <Image
                 src="/images/logos/symphony-logo-dark.png"
@@ -86,10 +86,10 @@ export default function Header() {
             </Link>
           </nav>
 
-          {/* Mobile menu button */}
+          {/* Mobile menu button - Positioned absolutely on the right */}
           <button
             type="button"
-            className="lg:hidden p-2 text-gray-700 hover:text-primary-600"
+            className="lg:hidden p-2 text-gray-700 hover:text-primary-600 absolute right-0"
             onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
             aria-label="Toggle mobile menu"
           >

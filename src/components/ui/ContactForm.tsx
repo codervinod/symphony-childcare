@@ -16,8 +16,8 @@ interface FormData {
 }
 
 export default function ContactForm() {
-  // You'll need to replace 'your-form-id' with your actual Formspree form ID
-  const [state, handleSubmit] = useForm("xpwwpqvr") // Placeholder form ID
+  // Configured with Symphony Childcare Formspree form
+  const [state, handleSubmit] = useForm("mzdabyvo")
 
   const [formData, setFormData] = useState<FormData>({
     parentName: '',

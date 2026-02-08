@@ -52,7 +52,7 @@ export default function ProgramDetailsPage() {
       {/* Program Overview */}
       <section className="section-padding">
         <div className="container-custom">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start mb-16">
+          <div className="max-w-4xl mx-auto mb-16">
             <div>
               <h2 className="font-display text-3xl font-bold text-gray-900 mb-6">
                 Our After School Program
@@ -96,15 +96,6 @@ export default function ProgramDetailsPage() {
                   <span className="text-gray-700">Creative and educational activities</span>
                 </div>
               </div>
-            </div>
-            <div className="relative">
-              <Image
-                src="/images/hero/outdoor-playground.png"
-                alt="Children playing safely at Symphony Childcare"
-                width={450}
-                height={300}
-                className="rounded-2xl shadow-xl"
-              />
             </div>
           </div>
         </div>

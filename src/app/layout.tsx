@@ -68,10 +68,10 @@ export const metadata: Metadata = {
     description: 'Safe, nurturing after-school care with homework help and enriching activities. Qualified educators, flexible pickup times, and small group sizes in Fremont, CA.',
     images: [
       {
-        url: '/images/hero/outdoor-playground.png',
+        url: '/images/social/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'Children enjoying outdoor activities at Symphony Childcare',
+        alt: 'Symphony Childcare - Premium After-School Program in Fremont, CA',
       },
     ],
   },
@@ -79,7 +79,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Symphony Childcare | Premium After-School Program in Fremont, CA',
     description: 'Safe, nurturing after-school care with homework help and enriching activities. Qualified educators in Fremont, CA.',
-    images: ['/images/hero/outdoor-playground.png'],
+    images: ['/images/social/og-image.png'],
   },
   alternates: {
     canonical: 'https://symphonychildcare.com',

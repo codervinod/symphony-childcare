@@ -218,12 +218,12 @@ export default function ContactForm() {
             onChange={handleInputChange}
             className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-colors"
           >
-            <option value="">Select program type</option>
-            <option value="After School Program (Full-time)">After School Program (Full-time)</option>
-            <option value="After School Program (Part-time)">After School Program (Part-time)</option>
-            <option value="Drop-in Care">Drop-in Care</option>
+            <option value="">Select program interest</option>
+            <option value="After School Program">After School Program (K-8th Grade)</option>
             <option value="Summer Program">Summer Program</option>
-            <option value="Just Exploring Options">Just Exploring Options</option>
+            <option value="School Pickup Service">School Pickup from Warm Springs/James Leitch</option>
+            <option value="General Information">General Information & Tour</option>
+            <option value="Enrollment Questions">Enrollment Questions</option>
           </select>
         </div>
       </div>

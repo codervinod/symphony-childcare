@@ -1,7 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export',
   images: {
-    // OpenNext handles image optimization on Cloudflare
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',
@@ -9,8 +10,7 @@ const nextConfig = {
       },
     ],
   },
-  // Remove static export - OpenNext handles deployment
-  // trailingSlash: true, // Remove for better SSR compatibility
+  trailingSlash: true,
 }
 
 module.exports = nextConfig

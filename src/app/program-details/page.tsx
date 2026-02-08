@@ -52,7 +52,7 @@ export default function ProgramDetailsPage() {
       {/* Program Overview */}
       <section className="section-padding">
         <div className="container-custom">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start mb-16">
             <div>
               <h2 className="font-display text-3xl font-bold text-gray-900 mb-6">
                 Our After School Program

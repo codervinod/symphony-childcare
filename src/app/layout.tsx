@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     default: 'Symphony Childcare | Premium After-School Program in Fremont, CA',
     template: '%s | Symphony Childcare'
   },
-  description: 'Symphony Childcare provides safe, nurturing after-school care with homework help, enriching activities, and qualified educators in Fremont, CA. Flexible pickup times and small group sizes.',
+  description: 'Symphony Childcare provides safe, nurturing after-school care with homework help, enriching activities, and personal attention in Fremont, CA. Flexible pickup times and small group sizes.',
   keywords: [
     'after school program',
     'childcare Fremont CA',

@@ -233,7 +233,7 @@ export default function GalleryPage() {
               </h2>
               <p className="text-gray-700 mb-8">
                 Pictures can only show so much. Schedule a tour to experience our warm,
-                welcoming environment and meet our caring staff.
+                welcoming environment and meet Director Taruna.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Link

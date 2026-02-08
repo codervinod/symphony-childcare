@@ -33,10 +33,10 @@ export default function ContactInfo() {
             <div>
               <div className="font-medium text-gray-900">Email</div>
               <a
-                href="mailto:info@symphonychildcare.com"
+                href="mailto:taruna@symphonychildcare.com"
                 className="text-secondary-600 hover:text-secondary-700 transition-colors"
               >
-                info@symphonychildcare.com
+                taruna@symphonychildcare.com
               </a>
               <div className="text-sm text-gray-600">We respond within 2 hours</div>
             </div>

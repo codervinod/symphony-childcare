@@ -4,7 +4,7 @@ const features = [
   {
     icon: Shield,
     title: 'Safety First',
-    description: 'California licensed facility with background-checked staff and secure environment maintained to the highest safety standards.'
+    description: 'California licensed facility with background-checked director and secure environment maintained to the highest safety standards.'
   },
   {
     icon: ChefHat,

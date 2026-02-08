@@ -5,9 +5,9 @@
     "subtitle": "Safe, Supervised, Stimulating",
     "ageRange": "K-8th Grade",
     "hours": "3:00 PM - 6:30 PM",
-    "description": "Our comprehensive after-school program provides a safe, nurturing environment where children can complete homework, engage in enriching activities, and develop social skills. With qualified educators and a structured yet flexible approach, we ensure your child thrives academically and personally.",
+    "description": "Our comprehensive after-school program provides a safe, nurturing environment where children can complete homework, engage in enriching activities, and develop social skills. With personal attention from Director Taruna and a structured yet flexible approach, we ensure your child thrives academically and personally.",
     "features": [
-      "Homework help with qualified tutors",
+      "Homework help and academic support",
       "STEM and creative arts activities",
       "Outdoor play and physical activities",
       "Nutritious snacks and meals",
@@ -41,9 +41,9 @@
       "note": "Competitive rates • Multiple schedule options • Contact us for detailed pricing"
     },
     "enrollment": {
-      "capacity": 25,
-      "currentSpots": 5,
-      "waitlist": true
+      "capacity": 8,
+      "currentSpots": 2,
+      "waitlist": false
     }
   },
   "summerProgram": {

@@ -29,7 +29,7 @@ export default function Footer() {
               </div>
             </div>
             <p className="text-gray-300 text-sm leading-relaxed">
-              Providing safe, nurturing after-school care with qualified educators,
+              Providing safe, nurturing after-school care with personal attention,
               homework help, and enriching activities for children in the Fremont community.
             </p>
           </div>
@@ -89,10 +89,10 @@ export default function Footer() {
               <li className="flex items-center space-x-3">
                 <Mail size={16} className="text-primary-400 flex-shrink-0" />
                 <a
-                  href="mailto:info@symphonychildcare.com"
+                  href="mailto:taruna@symphonychildcare.com"
                   className="text-gray-300 hover:text-white transition-colors text-sm"
                 >
-                  info@symphonychildcare.com
+                  taruna@symphonychildcare.com
                 </a>
               </li>
             </ul>

@@ -60,7 +60,7 @@ export default function ProgramOverview() {
               <ul className="space-y-2 text-gray-600">
                 <li className="flex items-center space-x-3">
                   <div className="w-2 h-2 bg-primary-600 rounded-full"></div>
-                  <span>Qualified tutors for homework assistance</span>
+                  <span>Director provides homework assistance</span>
                 </li>
                 <li className="flex items-center space-x-3">
                   <div className="w-2 h-2 bg-primary-600 rounded-full"></div>

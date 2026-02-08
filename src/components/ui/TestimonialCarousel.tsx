@@ -122,7 +122,7 @@ export default function TestimonialCarousel() {
             <div className="text-gray-600">Average Rating</div>
           </div>
           <div className="space-y-2">
-            <div className="font-display font-bold text-3xl text-primary-600">25</div>
+            <div className="font-display font-bold text-3xl text-primary-600">8</div>
             <div className="text-gray-600">Max Group Size</div>
           </div>
         </div>

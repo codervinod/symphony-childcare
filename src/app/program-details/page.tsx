@@ -77,7 +77,7 @@ export default function ProgramDetailsPage() {
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                     </svg>
                   </div>
-                  <span className="text-gray-700">Safe, supervised environment with caring staff</span>
+                  <span className="text-gray-700">Safe, supervised environment with personal care</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <div className="w-6 h-6 bg-primary-600 rounded-full flex items-center justify-center flex-shrink-0">
@@ -159,7 +159,7 @@ export default function ProgramDetailsPage() {
               </h3>
               <p className="text-gray-600">
                 Dedicated quiet time for homework completion with assistance available
-                from our caring staff when needed.
+                from Director Taruna when needed.
               </p>
             </div>
 

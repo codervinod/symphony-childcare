@@ -48,7 +48,7 @@ export default function ContactPage() {
                   Get Started Today
                 </h2>
                 <p className="text-gray-600 leading-relaxed">
-                  Fill out the form below and we'll get back to you within 2 hours.
+                  Fill out the form below and we'll get back to you the same day.
                   Or call us directly at <strong>(510) 565-0226</strong> to speak
                   with Director Taruna Gupta immediately.
                 </p>

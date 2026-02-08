@@ -69,7 +69,7 @@ export default function ContactForm() {
             Thank You!
           </h3>
           <p className="text-gray-600 leading-relaxed">
-            We've received your message and will get back to you within 2 hours during business hours.
+            We've received your message and will get back to you within 24 hours.
             If you need immediate assistance, please call us at{' '}
             <a href="tel:(510)565-0226" className="text-primary-600 font-semibold">
               (510) 565-0226

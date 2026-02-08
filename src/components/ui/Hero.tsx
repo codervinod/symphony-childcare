@@ -77,7 +77,7 @@ export default function Hero() {
             <div className="flex flex-wrap items-center gap-4 md:gap-6 text-sm text-gray-600">
               <div className="flex items-center space-x-2">
                 <div className="w-2 h-2 bg-green-500 rounded-full"></div>
-                <span>Licensed & Insured</span>
+                <span>California Licensed</span>
               </div>
               <div className="flex items-center space-x-2">
                 <div className="w-2 h-2 bg-green-500 rounded-full"></div>
@@ -135,8 +135,8 @@ export default function Hero() {
                 <div className="bg-white/95 backdrop-blur-sm rounded-lg p-4 shadow-lg">
                   <div className="grid grid-cols-3 gap-4 text-center">
                     <div>
-                      <div className="font-display font-bold text-2xl text-primary-600">200+</div>
-                      <div className="text-sm text-gray-600">Happy Families</div>
+                      <div className="font-display font-bold text-2xl text-primary-600">2024</div>
+                      <div className="text-sm text-gray-600">Founded</div>
                     </div>
                     <div>
                       <div className="font-display font-bold text-2xl text-secondary-600">4+</div>

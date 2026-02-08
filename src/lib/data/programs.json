@@ -38,10 +38,7 @@
       }
     ],
     "pricing": {
-      "fullTime": "$150/week",
-      "partTime": "$90/week (3 days)",
-      "dropIn": "$35/day",
-      "note": "Includes snacks, materials, and all activities"
+      "note": "Competitive rates • Multiple schedule options • Contact us for detailed pricing"
     },
     "enrollment": {
       "capacity": 25,
@@ -66,13 +63,11 @@
       "Full day care available"
     ],
     "pricing": {
-      "fullDay": "$200/week",
-      "halfDay": "$120/week",
-      "note": "Includes lunch, snacks, and field trip fees"
+      "note": "Competitive summer rates • Full and half day options • Contact us for detailed pricing"
     },
     "enrollment": {
       "enrollmentPeriod": "March 1 - May 15",
-      "earlyBird": "$180/week (before April 1)"
+      "earlyBird": "Early bird discount available (before April 1)"
     }
   }
 }

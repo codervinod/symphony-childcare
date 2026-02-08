@@ -175,7 +175,7 @@ export default function ContactPage() {
                 <div>
                   <div className="font-medium text-gray-900 mb-1">School Pickup & Drop-off</div>
                   <div className="text-gray-600">
-                    Warm Springs • James Leitch • Weibel
+                    Warm Springs • James Leitch
                   </div>
                 </div>
 

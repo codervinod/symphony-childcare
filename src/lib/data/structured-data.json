@@ -43,7 +43,7 @@
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "5.0",
-    "ratingCount": "200",
+    "ratingCount": "3",
     "bestRating": "5",
     "worstRating": "1"
   },
@@ -102,7 +102,7 @@
         "itemOffered": {
           "@type": "Service",
           "name": "School Pickup Service",
-          "description": "Safe pickup and transportation from Warm Springs, James Leitch, and Weibel Elementary schools"
+          "description": "Safe pickup and transportation from Warm Springs and James Leitch Elementary schools"
         }
       }
     ]

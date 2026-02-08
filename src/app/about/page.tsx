@@ -121,7 +121,7 @@ export default function AboutPage() {
               </p>
               <p className="text-lg text-gray-700 mb-8">
                 Located in the heart of Fremont at 681 Navajo Way, we serve families
-                with pickup and drop-off services for Warm Springs, James Leitch, and Weibel Elementary schools, providing quality
+                with pickup and drop-off services for Warm Springs and James Leitch Elementary schools, providing quality
                 after-school care that gives parents peace of mind.
               </p>
             </div>

@@ -110,8 +110,8 @@ export default function TestimonialCarousel() {
         {/* Trust badges */}
         <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
           <div className="space-y-2">
-            <div className="font-display font-bold text-3xl text-primary-600">200+</div>
-            <div className="text-gray-600">Happy Families</div>
+            <div className="font-display font-bold text-3xl text-primary-600">2024</div>
+            <div className="text-gray-600">Founded</div>
           </div>
           <div className="space-y-2">
             <div className="font-display font-bold text-3xl text-secondary-600">4+</div>

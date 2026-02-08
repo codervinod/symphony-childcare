@@ -55,10 +55,10 @@ export default function Header() {
               priority
             />
             <div className="hidden sm:block">
-              <div className="font-display font-bold text-xl text-primary-600">
+              <div className="font-display font-bold text-xl text-gray-900">
                 Symphony Childcare
               </div>
-              <div className="text-sm text-gray-600">
+              <div className="text-sm text-gray-700">
                 Where Your Child Thrives
               </div>
             </div>

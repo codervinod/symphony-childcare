@@ -253,7 +253,7 @@ export default function ProgramDetailsPage() {
                 <p className="text-lg text-gray-700 mb-6">
                   We provide convenient pickup and drop-off services for students at these Fremont schools:
                 </p>
-                <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-md mx-auto">
                   <div className="text-center">
                     <div className="w-12 h-12 bg-primary-100 rounded-full mx-auto mb-2 flex items-center justify-center">
                       <svg className="w-6 h-6 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -271,15 +271,6 @@ export default function ProgramDetailsPage() {
                       </svg>
                     </div>
                     <h4 className="font-medium text-gray-900">James Leitch Elementary</h4>
-                  </div>
-                  <div className="text-center">
-                    <div className="w-12 h-12 bg-cream-300 rounded-full mx-auto mb-2 flex items-center justify-center">
-                      <svg className="w-6 h-6 text-sand-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-                      </svg>
-                    </div>
-                    <h4 className="font-medium text-gray-900">Milpitas</h4>
                   </div>
                 </div>
               </div>

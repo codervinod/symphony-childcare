@@ -9,7 +9,7 @@ import StructuredData from '@/components/seo/StructuredData'
 
 export const metadata = {
   title: 'Home',
-  description: 'Symphony Childcare provides premium after-school care in Fremont, CA. Safe, supervised environment with homework help, enriching activities, and qualified educators.',
+  description: 'Symphony Childcare provides premium after-school care in Fremont, CA. Safe, supervised environment with homework help, enriching activities, and personal attention from Director Taruna.',
 }
 
 export default function HomePage() {

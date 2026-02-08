@@ -4,14 +4,13 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Program Details - After School Care & Activities',
-  description: 'Detailed information about Symphony Childcare\'s after-school program. Operating hours 3:00-6:30 PM, homework help, creative activities, and school pickup from Warm Springs, James Leitch, and Weibel Elementary.',
+  description: 'Detailed information about Symphony Childcare\'s after-school program. Operating hours 3:00-6:30 PM, homework help, creative activities, and school pickup from Warm Springs and James Leitch Elementary.',
   keywords: [
     'after school program details',
     'homework help',
     'school pickup service',
     'Warm Springs Elementary',
     'James Leitch Elementary',
-    'Weibel Elementary',
     'after school activities',
     'Fremont childcare hours'
   ],
@@ -53,7 +52,7 @@ export default function ProgramDetailsPage() {
       {/* Program Overview */}
       <section className="section-padding">
         <div className="container-custom">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
+          <div className="max-w-4xl mx-auto mb-16">
             <div>
               <h2 className="font-display text-3xl font-bold text-gray-900 mb-6">
                 Our After School Program
@@ -78,7 +77,7 @@ export default function ProgramDetailsPage() {
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                     </svg>
                   </div>
-                  <span className="text-gray-700">Safe, supervised environment with caring staff</span>
+                  <span className="text-gray-700">Safe, supervised environment with personal care</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <div className="w-6 h-6 bg-primary-600 rounded-full flex items-center justify-center flex-shrink-0">
@@ -97,15 +96,6 @@ export default function ProgramDetailsPage() {
                   <span className="text-gray-700">Creative and educational activities</span>
                 </div>
               </div>
-            </div>
-            <div className="relative">
-              <Image
-                src="/images/hero/outdoor-playground.png"
-                alt="Children playing safely at Symphony Childcare"
-                width={600}
-                height={400}
-                className="rounded-2xl shadow-xl"
-              />
             </div>
           </div>
         </div>
@@ -160,7 +150,7 @@ export default function ProgramDetailsPage() {
               </h3>
               <p className="text-gray-600">
                 Dedicated quiet time for homework completion with assistance available
-                from our caring staff when needed.
+                from Director Taruna when needed.
               </p>
             </div>
 
@@ -254,7 +244,7 @@ export default function ProgramDetailsPage() {
                 <p className="text-lg text-gray-700 mb-6">
                   We provide convenient pickup and drop-off services for students at these Fremont schools:
                 </p>
-                <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-md mx-auto">
                   <div className="text-center">
                     <div className="w-12 h-12 bg-primary-100 rounded-full mx-auto mb-2 flex items-center justify-center">
                       <svg className="w-6 h-6 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -272,24 +262,6 @@ export default function ProgramDetailsPage() {
                       </svg>
                     </div>
                     <h4 className="font-medium text-gray-900">James Leitch Elementary</h4>
-                  </div>
-                  <div className="text-center">
-                    <div className="w-12 h-12 bg-accent-100 rounded-full mx-auto mb-2 flex items-center justify-center">
-                      <svg className="w-6 h-6 text-accent-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-                      </svg>
-                    </div>
-                    <h4 className="font-medium text-gray-900">Weibel Elementary</h4>
-                  </div>
-                  <div className="text-center">
-                    <div className="w-12 h-12 bg-cream-300 rounded-full mx-auto mb-2 flex items-center justify-center">
-                      <svg className="w-6 h-6 text-sand-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-                      </svg>
-                    </div>
-                    <h4 className="font-medium text-gray-900">Milpitas</h4>
                   </div>
                 </div>
               </div>

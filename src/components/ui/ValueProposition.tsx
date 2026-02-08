@@ -1,35 +1,35 @@
-import { Shield, GraduationCap, Heart, Users, Clock, MapPin } from 'lucide-react'
+import { Shield, ChefHat, Heart, Users, Home, MapPin } from 'lucide-react'
 
 const features = [
   {
     icon: Shield,
     title: 'Safety First',
-    description: 'Licensed facility with background-checked staff, secure entry, and comprehensive safety protocols.'
+    description: 'California licensed facility with background-checked director and secure environment maintained to the highest safety standards.'
   },
   {
-    icon: GraduationCap,
-    title: 'Academic Excellence',
-    description: 'Dedicated homework time with qualified tutors ensuring your child\'s academic success.'
+    icon: ChefHat,
+    title: 'Fresh Homemade Meals',
+    description: 'Nutritious Indian vegetarian meals prepared fresh daily by Director Taruna, ensuring healthy and delicious food your child will love.'
   },
   {
     icon: Heart,
-    title: 'Nurturing Environment',
-    description: 'Warm, home-like atmosphere where children feel valued, supported, and genuinely cared for.'
+    title: 'Homely Atmosphere',
+    description: 'Warm, family-like environment where children receive the same love and care as they would at home, not just supervision.'
   },
   {
     icon: Users,
-    title: 'Small Group Sizes',
-    description: 'Low child-to-staff ratios ensure individual attention and personalized care for each child.'
+    title: 'Small Group Advantage',
+    description: 'Unlike large daycares with 30+ kids, our intimate setting ensures every child gets personal attention and individualized care.'
   },
   {
-    icon: Clock,
-    title: 'Flexible Schedule',
-    description: 'Convenient pickup times that work with your schedule, plus extended hours when needed.'
+    icon: Home,
+    title: 'Spotless & Organized',
+    description: 'Meticulously maintained clean environment with organized learning spaces - a stark contrast to overcrowded facilities.'
   },
   {
     icon: MapPin,
     title: 'Prime Location',
-    description: 'Conveniently located in Fremont with easy access from major schools and neighborhoods.'
+    description: 'Conveniently located in Fremont with pickup service from Warm Springs and James Leitch Elementary schools.'
   }
 ]
 
@@ -39,11 +39,11 @@ export default function ValueProposition() {
       <div className="container-custom">
         <div className="text-center mb-16">
           <h2 className="font-display text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
-            Why Parents Choose Symphony Childcare
+            Why Choose Symphony Over Large Daycares?
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            We understand what working parents need: a safe, nurturing environment where children thrive
-            academically and socially while you focus on your career with complete peace of mind.
+            Experience the difference of personalized care. While large daycares focus on capacity,
+            we focus on quality - giving your child the individual attention and homemade care they deserve.
           </p>
         </div>
 
@@ -71,11 +71,11 @@ export default function ValueProposition() {
         <div className="mt-16 text-center">
           <div className="bg-gradient-to-r from-primary-50 to-secondary-50 rounded-2xl p-8">
             <h3 className="font-display text-2xl font-bold text-gray-900 mb-4">
-              Experience the Symphony Difference
+              Experience the Personal Touch Difference
             </h3>
             <p className="text-gray-600 text-lg mb-6 max-w-2xl mx-auto">
-              Join over 200 happy families who trust us with their most precious gift.
-              Schedule a tour and see why parents consistently choose Symphony Childcare.
+              See why parents choose our intimate, caring environment over large impersonal daycares.
+              Schedule a tour and taste the difference homemade care makes.
             </p>
             <a
               href="/contact"

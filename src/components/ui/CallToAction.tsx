@@ -41,7 +41,7 @@ export default function CallToAction() {
             <div className="bg-primary-500/20 rounded-lg p-6 backdrop-blur-sm">
               <Calendar className="h-8 w-8 text-white mb-3 mx-auto" />
               <h3 className="font-display font-semibold text-lg mb-2">Quick Response</h3>
-              <p className="text-primary-100">We'll respond to your inquiry within 2 hours</p>
+              <p className="text-primary-100">Personal response from Director Taruna</p>
             </div>
 
             <div className="bg-primary-500/20 rounded-lg p-6 backdrop-blur-sm">

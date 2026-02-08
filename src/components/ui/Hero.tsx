@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import { ArrowRight, Shield, GraduationCap, Heart, Clock } from 'lucide-react'
+import { ArrowRight, Shield, ChefHat, Heart, Users } from 'lucide-react'
 
 export default function Hero() {
   return (
@@ -22,7 +22,7 @@ export default function Hero() {
                 After School
               </h1>
               <p className="text-xl text-gray-600 leading-relaxed max-w-2xl">
-                Safe, supervised environment with qualified educators, homework help,
+                Safe, supervised environment with personal attention, homework help,
                 and enriching activities. Give your child the best after-school experience
                 while you focus on work with complete peace of mind.
               </p>
@@ -34,25 +34,25 @@ export default function Hero() {
                 <div className="p-2 bg-primary-100 rounded-lg">
                   <Shield className="h-5 w-5 text-primary-600" />
                 </div>
-                <span className="text-sm font-medium text-gray-700">Safe & Secure</span>
+                <span className="text-sm font-medium text-gray-700">Safety First</span>
               </div>
               <div className="flex items-center space-x-3">
                 <div className="p-2 bg-secondary-100 rounded-lg">
-                  <GraduationCap className="h-5 w-5 text-secondary-600" />
+                  <ChefHat className="h-5 w-5 text-secondary-600" />
                 </div>
-                <span className="text-sm font-medium text-gray-700">Homework Help</span>
+                <span className="text-sm font-medium text-gray-700">Fresh Homemade Meals</span>
               </div>
               <div className="flex items-center space-x-3">
                 <div className="p-2 bg-accent-100 rounded-lg">
                   <Heart className="h-5 w-5 text-accent-600" />
                 </div>
-                <span className="text-sm font-medium text-gray-700">Caring Environment</span>
+                <span className="text-sm font-medium text-gray-700">Homely Atmosphere</span>
               </div>
               <div className="flex items-center space-x-3">
                 <div className="p-2 bg-primary-100 rounded-lg">
-                  <Clock className="h-5 w-5 text-primary-600" />
+                  <Users className="h-5 w-5 text-primary-600" />
                 </div>
-                <span className="text-sm font-medium text-gray-700">Flexible Hours</span>
+                <span className="text-sm font-medium text-gray-700">Small Group Advantage</span>
               </div>
             </div>
 
@@ -77,7 +77,7 @@ export default function Hero() {
             <div className="flex flex-wrap items-center gap-4 md:gap-6 text-sm text-gray-600">
               <div className="flex items-center space-x-2">
                 <div className="w-2 h-2 bg-green-500 rounded-full"></div>
-                <span>Licensed & Insured</span>
+                <span>California Licensed</span>
               </div>
               <div className="flex items-center space-x-2">
                 <div className="w-2 h-2 bg-green-500 rounded-full"></div>
@@ -85,7 +85,7 @@ export default function Hero() {
               </div>
               <div className="flex items-center space-x-2">
                 <div className="w-2 h-2 bg-green-500 rounded-full"></div>
-                <span>15+ Years Experience</span>
+                <span>4+ Years Experience</span>
               </div>
             </div>
           </div>
@@ -135,11 +135,11 @@ export default function Hero() {
                 <div className="bg-white/95 backdrop-blur-sm rounded-lg p-4 shadow-lg">
                   <div className="grid grid-cols-3 gap-4 text-center">
                     <div>
-                      <div className="font-display font-bold text-2xl text-primary-600">200+</div>
-                      <div className="text-sm text-gray-600">Happy Families</div>
+                      <div className="font-display font-bold text-2xl text-primary-600">2024</div>
+                      <div className="text-sm text-gray-600">Founded</div>
                     </div>
                     <div>
-                      <div className="font-display font-bold text-2xl text-secondary-600">15+</div>
+                      <div className="font-display font-bold text-2xl text-secondary-600">4+</div>
                       <div className="text-sm text-gray-600">Years Experience</div>
                     </div>
                     <div>

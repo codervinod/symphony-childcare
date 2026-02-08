@@ -3,10 +3,10 @@
   "@type": "ChildCare",
   "name": "Symphony Childcare",
   "alternateName": "Symphony Childcare Center",
-  "description": "Premium after-school childcare program providing safe, nurturing environment with homework help, educational activities, and qualified educators in Fremont, CA.",
+  "description": "Premium after-school childcare program providing safe, nurturing environment with homework help, educational activities, and personal care from Director Taruna in Fremont, CA.",
   "url": "https://symphonychildcare.com",
   "telephone": "(510) 565-0226",
-  "email": "info@symphonychildcare.com",
+  "email": "taruna@symphonychildcare.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "681 Navajo Way",
@@ -37,13 +37,13 @@
   "founder": {
     "@type": "Person",
     "name": "Taruna Gupta",
-    "jobTitle": "Director",
-    "description": "Experienced early childhood educator with 15+ years in childcare"
+    "jobTitle": "Director & Founder",
+    "description": "Mother of two with 4+ years dedicated childcare experience since 2021, Bachelor's in Computer Applications, and California state-required early childhood education credentials"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "5.0",
-    "ratingCount": "200",
+    "ratingCount": "3",
     "bestRating": "5",
     "worstRating": "1"
   },
@@ -102,7 +102,7 @@
         "itemOffered": {
           "@type": "Service",
           "name": "School Pickup Service",
-          "description": "Safe pickup and transportation from Warm Springs, James Leitch, and Weibel Elementary schools"
+          "description": "Safe pickup and transportation from Warm Springs and James Leitch Elementary schools"
         }
       }
     ]

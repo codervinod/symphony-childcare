@@ -60,7 +60,7 @@ export default function ProgramOverview() {
               <ul className="space-y-2 text-gray-600">
                 <li className="flex items-center space-x-3">
                   <div className="w-2 h-2 bg-primary-600 rounded-full"></div>
-                  <span>Qualified tutors for homework assistance</span>
+                  <span>Director provides homework assistance</span>
                 </li>
                 <li className="flex items-center space-x-3">
                   <div className="w-2 h-2 bg-primary-600 rounded-full"></div>
@@ -95,15 +95,15 @@ export default function ProgramOverview() {
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="font-medium text-gray-700">Group Size</span>
-                  <span className="text-gray-900">Max 25 students</span>
+                  <span className="text-gray-900">Small intimate groups</span>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-gray-100">
                   <span className="font-medium text-gray-700">Staff Ratio</span>
-                  <span className="text-gray-900">1:8 (staff:children)</span>
+                  <span className="text-gray-900">Low ratio, personal attention</span>
                 </div>
                 <div className="flex justify-between items-center py-2">
-                  <span className="font-medium text-gray-700">Full-Time Rate</span>
-                  <span className="text-gray-900 font-semibold">$150/week</span>
+                  <span className="font-medium text-gray-700">Pricing</span>
+                  <span className="text-gray-900 font-semibold">Contact for Rates</span>
                 </div>
               </div>
 

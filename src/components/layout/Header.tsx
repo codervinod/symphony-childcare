@@ -46,19 +46,21 @@ export default function Header() {
         <div className="flex justify-between items-center py-4">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-3">
-            <Image
-              src="/images/logos/symphony-logo-compact.png"
-              alt="Symphony Childcare Logo"
-              width={60}
-              height={60}
-              className="h-12 w-auto"
-              priority
-            />
+            <div className="p-1 hover:scale-105 transition-all duration-300">
+              <Image
+                src="/images/logos/symphony-logo-dark.png"
+                alt="Symphony Childcare Logo"
+                width={60}
+                height={60}
+                className="h-9 w-auto"
+                priority
+              />
+            </div>
             <div className="hidden sm:block">
-              <div className="font-display font-bold text-xl text-primary-600">
+              <div className="font-display font-bold text-xl text-primary-900 tracking-tight">
                 Symphony Childcare
               </div>
-              <div className="text-sm text-gray-600">
+              <div className="text-sm text-primary-700 font-medium">
                 Where Your Child Thrives
               </div>
             </div>

@@ -48,7 +48,7 @@ export default function ContactPage() {
                   Get Started Today
                 </h2>
                 <p className="text-gray-600 leading-relaxed">
-                  Fill out the form below and we'll get back to you within 2 hours.
+                  Fill out the form below and we'll get back to you the same day.
                   Or call us directly at <strong>(510) 565-0226</strong> to speak
                   with Director Taruna Gupta immediately.
                 </p>
@@ -90,7 +90,7 @@ export default function ContactPage() {
                   </a>
 
                   <a
-                    href="mailto:info@symphonychildcare.com"
+                    href="mailto:taruna@symphonychildcare.com"
                     className="flex items-center space-x-3 p-4 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-200"
                   >
                     <div className="p-2 bg-secondary-100 rounded-lg">
@@ -98,7 +98,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <div className="font-semibold text-gray-900">Email Us</div>
-                      <div className="text-sm text-gray-600">info@symphonychildcare.com</div>
+                      <div className="text-sm text-gray-600">taruna@symphonychildcare.com</div>
                     </div>
                   </a>
 
@@ -175,7 +175,7 @@ export default function ContactPage() {
                 <div>
                   <div className="font-medium text-gray-900 mb-1">School Pickup & Drop-off</div>
                   <div className="text-gray-600">
-                    Warm Springs • James Leitch • Weibel
+                    Warm Springs • James Leitch
                   </div>
                 </div>
 

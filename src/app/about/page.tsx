@@ -56,13 +56,14 @@ export default function AboutPage() {
                 Meet Our Director
               </h2>
               <h3 className="font-display text-xl font-semibold text-primary-600 mb-4">
-                Taruna Gupta, Director
+                Taruna Gupta, Director & Founder
               </h3>
               <p className="text-lg text-gray-700 mb-6">
-                "With a deep-rooted passion for early childhood education and a commitment to
-                creating a nurturing environment for young minds, I am excited to lead Symphony
-                Childcare. My goal is to foster a space where children can thrive academically,
-                creatively, and socially, all while feeling supported and cared for."
+                "As a mother of two boys and with over 4 years of dedicated childcare experience since 2021,
+                I founded Symphony Childcare in 2024 to bring the same personal care I give my own children
+                to every family in our community. With my Bachelor's in Computer Applications and California
+                state-required early childhood education credentials, I personally cook fresh Indian vegetarian
+                meals and genuinely care about each child's individual growth and happiness."
               </p>
               <div className="flex flex-wrap gap-4">
                 <Link
@@ -120,7 +121,7 @@ export default function AboutPage() {
               </p>
               <p className="text-lg text-gray-700 mb-8">
                 Located in the heart of Fremont at 681 Navajo Way, we serve families
-                with pickup and drop-off services for Warm Springs, James Leitch, and Weibel Elementary schools, providing quality
+                with pickup and drop-off services for Warm Springs and James Leitch Elementary schools, providing quality
                 after-school care that gives parents peace of mind.
               </p>
             </div>

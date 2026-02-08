@@ -101,8 +101,8 @@ export default function ProgramDetailsPage() {
               <Image
                 src="/images/hero/outdoor-playground.png"
                 alt="Children playing safely at Symphony Childcare"
-                width={600}
-                height={400}
+                width={450}
+                height={300}
                 className="rounded-2xl shadow-xl"
               />
             </div>

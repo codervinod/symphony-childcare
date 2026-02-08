@@ -56,11 +56,11 @@ export default function Header() {
                 priority
               />
             </div>
-            <div className="hidden sm:block">
-              <div className="font-display font-bold text-xl text-primary-900 tracking-tight">
+            <div className="block">
+              <div className="font-display font-bold text-lg sm:text-xl text-primary-900 tracking-tight">
                 Symphony Childcare
               </div>
-              <div className="text-sm text-primary-700 font-medium">
+              <div className="hidden sm:block text-sm text-primary-700 font-medium">
                 Where Your Child Thrives
               </div>
             </div>

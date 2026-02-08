@@ -1,7 +1,7 @@
-// default open-next.config.ts file created by @opennextjs/cloudflare
+// OpenNext configuration for Cloudflare Pages (without R2 dependency)
 import { defineCloudflareConfig } from "@opennextjs/cloudflare/config";
-import r2IncrementalCache from "@opennextjs/cloudflare/overrides/incremental-cache/r2-incremental-cache";
 
 export default defineCloudflareConfig({
-	incrementalCache: r2IncrementalCache,
+	// Use default cache for Pages deployment (no R2 dependency)
+	// incrementalCache: r2IncrementalCache, // Disabled for Pages
 });

@@ -43,9 +43,9 @@ export default function Header() {
 
       {/* Main header */}
       <div className="container-custom">
-        <div className="flex items-center py-4 relative">
+        <div className="flex items-center py-4 relative lg:justify-between">
           {/* Logo - Centered on mobile, left-aligned on larger screens */}
-          <Link href="/" className="flex items-center space-x-3 lg:flex-none mx-auto lg:mx-0">
+          <Link href="/" className="flex items-center space-x-3 mx-auto lg:mx-0">
             <div className="p-1 hover:scale-105 transition-all duration-300">
               <Image
                 src="/images/logos/symphony-logo-dark.png"
